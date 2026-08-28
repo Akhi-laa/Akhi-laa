@@ -6,10 +6,10 @@ I have experience in fraud investigation, risk operations, process management, a
 
 ## What I work with
 
-- **SQL** — MySQL, joins, aggregations, CTEs, conditional logic
-- **Power BI** — data modeling, DAX, dashboards, analytical storytelling
-- **Fraud & Risk** — fraud investigation, risk analysis, refund abuse, operational controls
-- **Python** — currently learning Python, Pandas, data cleaning, and exploratory analysis
+- **SQL** - MySQL, joins, aggregations, CTEs, conditional logic
+- **Power BI** - data modeling, DAX, dashboards, analytical storytelling
+- **Fraud & Risk** - fraud investigation, risk analysis, refund abuse, operational controls
+- **Python** - currently learning Python, Pandas, data cleaning, and exploratory analysis
 
 ## Featured Project
 
