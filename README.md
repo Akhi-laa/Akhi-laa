@@ -19,7 +19,7 @@ A SQL + Power BI investigation into refund and return abuse on a fictional onlin
 
 **Tools:** MySQL · Power BI · DAX
 
-The investigation identified six customers with unusually high claim rates and approximately ₹103K in approved refunds associated with them. The analysis also uncovered how customer-level behavior could make an otherwise legitimate seller appear responsible, and identified an investigator audit-quality issue through a separate audit analysis.
+The investigation identified six customers with unusually high claim rates, associated with approximately ₹103K in approved refunds. The analysis also uncovered how customer-level behavior could make an otherwise legitimate seller appear responsible, and identified an investigator audit-quality issue through a separate audit analysis.
 
 [View the GreenShield project →](https://github.com/Akhi-laa/greenshield-refund-abuse)
 
