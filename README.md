@@ -32,14 +32,6 @@ The investigation identified six customers with unusually high claim rates and a
 
 ## Career Focus
 
-I'm currently exploring opportunities across:
-
-- Data Analyst
-- Business Analyst
-- Risk Analyst
-- Fraud Analyst
-- AML Analyst
-- Risk / Fraud Operations Analyst
-- Other analyst roles where my fraud, risk, operations, and analytical experience can add value.
+I'm currently exploring opportunities across **Data Analytics, Business Analytics, Risk, Fraud, AML, and Risk/Fraud Operations**, where I can combine my investigation and operational experience with data-driven analysis.
 
 I'm building projects that combine **business context + data analysis + risk thinking**, rather than treating analytics as purely technical work.
