@@ -13,7 +13,7 @@ I have experience in fraud investigation, risk operations, process management, a
 
 ## Featured Project
 
-### GreenShield Marketplace — Refund Abuse Investigation
+### GreenShield Marketplace - Refund Abuse Investigation
 
 A SQL + Power BI investigation into refund and return abuse on a fictional online marketplace.
 
